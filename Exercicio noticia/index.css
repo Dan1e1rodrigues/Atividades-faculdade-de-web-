@@ -1,0 +1,24 @@
+#calcaria{
+    text-align: center;
+    background-color: royalblue;
+    color:black;
+}
+
+#imgtorresmo{
+    text-align: center;
+    width:700px;
+    position:relative;
+    float:right;
+}
+
+#segundotexto{
+    text-align: justify, center;
+}
+
+#segundaimagem{
+    text-align: center;
+    width:700px;
+    height:500px;
+    position:relative;
+    float:left;
+}
