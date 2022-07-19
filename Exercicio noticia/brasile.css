@@ -1,0 +1,27 @@
+   body{
+    background-image: url("https://thumbs.dreamstime.com/b/fundo-do-campo-de-grama-verde-para-esportes-futebol-e-teste-padr%C3%A3o-da-textura-gramado-close-up-138448013.jpg");
+   }
+
+   #imgbra{
+        width:300px;
+        border-radius: 30px;
+        padding: 10px;
+        margin:10px;
+    }
+
+    #cabecario{
+        text-align: center;
+        border-radius: 10%;
+        border:solid 10px yellow;
+        background-color: blue;
+        color:white;
+    }
+
+    #tabela{
+        color:white;
+        position:relative;
+        text-align: justify;
+        margin:1em;
+        padding:1em;
+        font-size: medium;
+    }
