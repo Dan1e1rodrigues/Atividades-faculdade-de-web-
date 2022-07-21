@@ -1,7 +1,16 @@
 body{
-    background-color:mistyrose;
+    background-color:bisque;
     color:grey;
 }
+
+p{
+    color:red;
+}
+
+a,#reccol {
+    color:red;
+}
+
 #orgcont{
     text-align:center;
     background-color:aqua;
@@ -11,10 +20,14 @@ body{
 #textoed{
     font-family: Arial;
     font-size:32px;
+    text-align:justify;
+    border:solid 10px yellow;
+    padding:1em;
 }
 
 #reccol{
     color:red;
     font-family:Impact;
     display: block;
+    text-align: justify;
 }
