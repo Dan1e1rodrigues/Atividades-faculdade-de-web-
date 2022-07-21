@@ -1,8 +1,17 @@
+body{
+    background-image:url("https://i.pinimg.com/736x/e0/88/9b/e0889b0dd4b6d7fa6a7018dd4e4e9694.jpg")
+}
+
 #texto{
     text-align: center;
+    border: solid 5px green;
+    background-color:aquamarine;
 }
 
 .localdata{
     text-align: center;
     border: 10px solid blue;
+    margin:2em;
+    padding:2em;
+    border:1em;
 }
