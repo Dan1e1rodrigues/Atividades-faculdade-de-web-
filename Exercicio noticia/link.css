@@ -1,10 +1,20 @@
 body{
-    background-color:royalblue;
-    color:yellow;
+    background-color:mistyrose;
+    color:grey;
 }
 #orgcont{
     text-align:center;
     background-color:aqua;
     color:yellow;
+}
 
+#textoed{
+    font-family: Arial;
+    font-size:32px;
+}
+
+#reccol{
+    color:red;
+    font-family:Impact;
+    display: block;
 }
