@@ -1,6 +1,20 @@
+body{
+    background-color:bisque;
+    color:brown;
+}
 #tabela01{
+    color:red;
     position:relative;
     text-align:center;
+    text-align:justify;
     border:solid 4px black;
-    color:black;
+    width:300px;
+    left:40%;
+    font-size:12px;
+    font-family:Verdana;
+
+}
+
+#titulo{
+    text-align: center;
 }
