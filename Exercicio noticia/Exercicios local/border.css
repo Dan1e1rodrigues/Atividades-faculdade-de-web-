@@ -1,6 +1,6 @@
 body{
-    background-color:bisque;
-    color:brown;
+    background-color:white;
+    color:black;
 }
 #tabela01{
     color:red;
@@ -12,9 +12,12 @@ body{
     left:40%;
     font-size:12px;
     font-family:Verdana;
-
 }
 
 #titulo{
     text-align: center;
+}
+
+#cabeçario{
+
 }
