@@ -18,6 +18,19 @@ body{
     text-align: center;
 }
 
-#cabeçario{
+#texto1{
+    text-align:center;
+    color:white;
+    background-color:royalblue;
+}
 
+.tabeladescp{
+    color:blue;
+    border:solid black 2px;
+    font-family:Arial;
+    font-size:12px;
+}
+
+#posicaotab{
+    text-align:center;
 }
