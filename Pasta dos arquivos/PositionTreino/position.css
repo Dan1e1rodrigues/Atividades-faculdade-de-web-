@@ -1,0 +1,16 @@
+#div1{
+    position:relative;
+    border:solid 5px blue;
+    margin:10px 0px 0px 10px;
+    padding:30px;
+    width:300px;
+    height:280px;
+}
+
+#div2{
+    position:absolute;
+    border: solid 5px red;
+    width:600px;
+    height:300px;
+    left:58%;
+}
