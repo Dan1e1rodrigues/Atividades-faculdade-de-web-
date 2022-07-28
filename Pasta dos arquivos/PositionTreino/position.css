@@ -1,26 +1,28 @@
 #div1{
     position:relative;
-    border:solid 5px blue;
+    border:dotted 5px red;
     margin:10px 0px 0px 10px;
     padding:30px;
     width:300px;
     height:280px;
+    left:70%;
 }
 
 #div2{
-    position:absolute;
-    border: solid 5px red;
-    width:600px;
+    position:relative;
+    border: solid 5px violet;
+    width:300px;
     height:300px;
-    left:58%;
+    left:38%;
 }
 
 #div3{
     position:absolute;
-    width:180px;
-    height:120px;
-    border:dotted 4px green;
-    background-color:white;
-    left:85%;
-    top:70%;
+    width:340px;
+    height:320px;
+    color:white;
+    border:solid 4px green;
+    background-color:gray;
+    left:45%;
+    top:20%;
 }
