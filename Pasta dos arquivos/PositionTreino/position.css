@@ -6,6 +6,7 @@
     width:300px;
     height:280px;
     left:70%;
+    overflow: auto;
 }
 
 #div2{
@@ -14,6 +15,7 @@
     width:300px;
     height:300px;
     left:38%;
+    overflow:auto;
 }
 
 #div3{
@@ -25,4 +27,5 @@
     background-color:gray;
     left:45%;
     top:20%;
+    overflow:auto;
 }
