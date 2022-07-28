@@ -14,3 +14,13 @@
     height:300px;
     left:58%;
 }
+
+#div3{
+    position:absolute;
+    width:180px;
+    height:120px;
+    border:dotted 4px green;
+    background-color:white;
+    left:85%;
+    top:70%;
+}
