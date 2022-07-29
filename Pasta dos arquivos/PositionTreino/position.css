@@ -1,6 +1,15 @@
-a.link,
+a:link,
 a:visited{
+    background-color:blue;
+    color:black;
+   }
+
+#div1{
     color:red;
+}
+
+#div2{
+    color:blue;
 }
 
 
