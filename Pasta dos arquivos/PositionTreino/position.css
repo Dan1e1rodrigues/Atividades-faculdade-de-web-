@@ -1,15 +1,11 @@
-a:link,
-a:visited{
-    background-color:blue;
-    color:black;
-   }
-
-#div1{
+div > p{
     color:red;
 }
 
-#div2{
-    color:blue;
+a:hover,
+a:active{
+    color:red;
+    background-color:blue;
 }
 
 
