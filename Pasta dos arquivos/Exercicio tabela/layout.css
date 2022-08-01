@@ -14,25 +14,48 @@
     border:2px solid black;
 }
 
-.box1{
+.tabela{
     position:relative;
-    margin:2px;
 }
 
+#item01{
+    background-color:black;
+    color:white;
+    width:auto;
+    height:250px;
+    margin:1em;
+    font-size:30px;
+    font-family:arial;
+    text-align:center;
+}
+
+#img01{
+    position:absolute;
+    top:22%;
+    left:80%;
+    border-radius:50%;
+}
+
+.box1{
+    position:relative;
+    margin:2em 5em 1em 5em;
+    padding:1em;
+    display:flex;
+    align-items: center;
+    float:left;
+    width:300px;
+    height:200px;
+}
+/*
 #div1{
     background-color:navajowhite;
-    width:150px;
-    height:150px;
 }
 
 #div2{
-    background-color:goldenrod;
-    width:150px;
-    height:150px;
+    background-color:red;
 }
 
 #div3{
     background-color:royalblue;
-    width:150px;
-    height:150px;
 }
+*/
