@@ -1,5 +1,5 @@
 body{
-    background-color: blueviolet;
+    background-color: #FFB6C1;
 }
 
 #cabecario{
@@ -11,6 +11,19 @@ body{
     color:whitesmoke;
 }
 
-#listano{
-    
+a:hover,
+a:active{
+    color:red;
+}
+
+div > ul{
+    color:red;
+}
+
+div > ol{
+    color:green;
+}
+
+#coor{
+    color:red;
 }
