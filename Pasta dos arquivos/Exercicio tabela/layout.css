@@ -8,7 +8,7 @@
 
 #cabecario02{
     position:relative;
-    background-color:#00008B;
+    background-color:black;
     color:white;
     width:100%;
     border:2px solid black;
@@ -32,8 +32,8 @@
 #img01{
     position:absolute;
     top:22%;
-    left:80%;
-    border-radius:50%;
+    left:70%;
+    border-radius:40%;
 }
 
 .box1{
@@ -43,19 +43,37 @@
     display:flex;
     align-items: center;
     float:left;
-    width:300px;
-    height:200px;
+    width:160px;
+    height:150px;
+    left:14%;
+    border:solid 2px;
 }
-/*
+
 #div1{
-    background-color:navajowhite;
+    background-color:black;
+    color:white;
 }
 
 #div2{
-    background-color:red;
+    background-color:black;
+    color:white;
 }
 
 #div3{
-    background-color:royalblue;
+    background-color:black;
+    color:white;
 }
-*/
+
+.blocoP{
+    position:relative;
+}
+
+#blocoP{
+    position:relative;
+    margin:2em;
+    background-color:black;
+    color:white;
+    height:auto;
+    text-align:center;
+}
+
