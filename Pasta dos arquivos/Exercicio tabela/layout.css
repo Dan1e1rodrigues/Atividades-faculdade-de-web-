@@ -66,14 +66,41 @@
 
 .blocoP{
     position:relative;
+    top:250px;
 }
 
-#blocoP{
+#KolP{
     position:relative;
     margin:2em;
     background-color:black;
     color:white;
     height:auto;
+    height:200px;
+    font-size:20px;
+    font-family:Arial;
+}
+
+#LoyP{
+    position:relative;
+    margin:2em;
+    background-color:blue;
+    color:white;
+    height:auto;
     text-align:center;
+    height:200px;
+    font-size:20px;
+    font-family:Arial;
+}
+
+#Ryt{
+    position:relative;
+    margin:2em;
+    background-color:black;
+    color:white;
+    height:100px;
+    text-align:center;
+    height:200px;
+    font-size:20px;
+    font-family:Arial;
 }
 
