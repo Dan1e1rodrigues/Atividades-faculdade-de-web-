@@ -13,3 +13,26 @@
     width:100%;
     border:2px solid black;
 }
+
+.box1{
+    position:relative;
+    margin:2px;
+}
+
+#div1{
+    background-color:navajowhite;
+    width:150px;
+    height:150px;
+}
+
+#div2{
+    background-color:goldenrod;
+    width:150px;
+    height:150px;
+}
+
+#div3{
+    background-color:royalblue;
+    width:150px;
+    height:150px;
+}
