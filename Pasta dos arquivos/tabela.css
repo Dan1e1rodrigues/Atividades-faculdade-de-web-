@@ -2,6 +2,10 @@ body{
     background-color: #FFB6C1;
 }
 
+#poscab{
+    position:relative;
+}
+
 #cabecario{
     text-align: center;
     background-color: maroon;
@@ -26,5 +30,5 @@ div > ol{
 
 #coor{
     color:red;
-    
+
 }
