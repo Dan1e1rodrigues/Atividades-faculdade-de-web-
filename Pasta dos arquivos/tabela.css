@@ -56,3 +56,11 @@ a:active{
     border-color:blue;
     overflow:auto;
 }
+
+#gfgf{
+    color:green;
+}
+
+div > td{
+    color:green;
+}
