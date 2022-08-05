@@ -32,3 +32,21 @@ div > ol{
     color:red;
 
 }
+
+#dimensao{
+    width:39px;
+    height:39;
+    border-radius:50%;
+}
+
+a {
+    color:green;
+}
+
+#soultext{
+    position:relative;
+    width:500px;
+    height:200px;
+    border-color:blue;
+    overflow:auto;
+}
