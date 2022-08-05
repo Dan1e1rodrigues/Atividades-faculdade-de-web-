@@ -39,8 +39,14 @@ div > ol{
     border-radius:50%;
 }
 
-a {
-    color:green;
+a:link,
+a:visited{
+    color:yellow;
+}
+
+a:hover,
+a:active{
+    font-size:20px;
 }
 
 #soultext{
