@@ -1,0 +1,16 @@
+#coolor{
+    position:relative;
+    margin:1em;
+    background-color:#ec149de8;
+    width:auto;
+    height:150px;
+    text-align:center;
+    border:10px solid #21cd21;
+    color:#214621;
+    font-family: 'Space Mono', monospace;
+}
+
+#textred{
+    font-size:40px;
+    font-family: 'Space Mono', monospace;
+}
